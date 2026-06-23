@@ -3,5 +3,5 @@
 # Lista de tareas pendientes
 
 - [ ] Aprender Git
-- [X] Practicar resolución de conflictos
+- [ ] Practicar resolución de conflictos (Aún pendiente)
 - [ ] Hacer el deploy
